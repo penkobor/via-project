@@ -1,25 +1,16 @@
-## Topic for my semestral project
+## Conversational personal organizer with dashboard
+The output of this project will be the webpage with dashboard with data from google calendar and weather channel. 
+Also virtual assistant would be integrated into the webpage. Using this assistant user would be able to manipulate the calendar and ask for standart questions like "how are you" and "what is the weather".
 
-Blah
 
 ### Technology stack
+- **React.js + typescript** - for front-end implementation
+- **Node.js + typescript** - for chatbot and back-end implementation
+- **Microsoft Azure Chatbot framework (LUIS.ai in particular)** - for chatbot implementation
 
-here is blah-blah-blah
+APIs that would probably be used
+1. Google Calendar API
+2. Weather API
+3. LUIS.ai API 
 
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
+Author: Boris Penko, penkobor@fel.cvut.cz
