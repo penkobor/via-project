@@ -1,0 +1,14 @@
+{
+  "name": "back-end",
+  "version": "1.0.0",
+  "description": "my apps server",
+  "main": "index.js",
+  "scripts": {
+    "test": "yarn test"
+  },
+  "author": "Boris Penko",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
+}
