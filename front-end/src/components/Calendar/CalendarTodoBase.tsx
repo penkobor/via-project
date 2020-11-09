@@ -6,7 +6,7 @@ export function CalendarTodoBase(props: any) {
         <div style={{
           width: '40%',
           padding: '10px',
-          backgroundColor: 'grey' }}
+          backgroundColor: 'white' }}
         > 
           {props.children}
         </div>
