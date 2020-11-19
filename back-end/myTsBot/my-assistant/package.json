@@ -20,6 +20,7 @@
     "dependencies": {
         "botbuilder": "~4.10.3",
         "dotenv": "^8.2.0",
+        "googleapis": "^39.2.0",
         "replace": "~1.1.1",
         "restify": "~8.5.1"
     },
